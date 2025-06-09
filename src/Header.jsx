@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import "./App.css"
-import  statsData from "./Data/"
+import  {statsData} from "./Data"
 import { useState } from 'react'
 let array;
 
