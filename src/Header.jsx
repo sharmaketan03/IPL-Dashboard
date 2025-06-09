@@ -77,8 +77,7 @@ mostFifties
                            <div>                      
                             <td>{index++}</td>
                            <td>{item.player}</td>
-
-                            <td>{Object.values(item)[1]}</td>
+                        <td>{Object.values(item)[1]}</td>
                         </div>       
                       )
                          
